@@ -33,7 +33,8 @@
 		<property name="hbm2ddl.auto">create</property>
 
 		<!-- Mapeamento das entidades -->
-		<!--  <mapping class="br.pro.delfino.drogaria.domain.Estado" /> -->
+		<mapping class="br.com.rodrigo.tcc.entidade.Lanche" />
+		<mapping class="br.com.rodrigo.tcc.entidade.Venda" /> 
 
 	</session-factory>
 
